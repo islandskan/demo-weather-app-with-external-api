@@ -134,7 +134,6 @@ function setWeatherIcon(data) {
 function setBgColor(t) {
     let hour = t.getHours();
     console.log(hour);
-    console.log(cardEl.className);
     switch (hour) {
         case 0:
         case 1:
@@ -144,7 +143,7 @@ function setBgColor(t) {
         case 23:
         default:
             cardEl.className += ' night';
-            console.log(cardEl.className);
+            // console.log(cardEl.className);
             break;
         case 4:
         case 5:
@@ -153,7 +152,7 @@ function setBgColor(t) {
         case 8:
         case 9:
             cardEl.className += ' morning';
-            console.log(cardEl.className);
+            // console.log(cardEl.className);
             break;
         case 10:
         case 11:
@@ -162,7 +161,7 @@ function setBgColor(t) {
         case 14:
         case 15:
             cardEl.className += ' daylight';
-            console.log(cardEl.className);
+            // console.log(cardEl.className);
             break;
         case 16:
         case 17:
@@ -171,7 +170,7 @@ function setBgColor(t) {
         case 20:
         case 21:
             cardEl.className += ' evening';
-            console.log(cardEl.className);
+            // console.log(cardEl.className);
             break;
     }
 }
