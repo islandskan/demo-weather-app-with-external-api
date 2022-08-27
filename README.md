@@ -4,7 +4,7 @@ A demo version of a weather app that fetches weather data for the current locati
 
 <div align="center">
   <h3>
-    <a href="https://islandskan-weather-app.herokuapp.com/">
+    <a href="https://calm-beach-42607.herokuapp.com/">
       Demo
     </a>
     <span> | </span>
