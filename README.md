@@ -2,6 +2,22 @@
 
 A demo version of a weather app that fetches weather data for the current location of the client. Built with vanilla JavaScript, Express.js, and [the weatherbit api](https://www.weatherbit.io/).
 
+<div align="center">
+  <h3>
+    <a href="https://islandskan-weather-app.herokuapp.com/">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://github.com/islandskan/demo-weather-app-with-external-api">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://www.weatherbit.io/">
+      Weatherbit API
+    </a>
+  </h3>
+</div>
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
