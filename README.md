@@ -86,7 +86,7 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 ### Plugins/modules/other software
 
 -   [Postman](https://www.postman.com/)
--   [Vercel](https://vercel.com/)
+-   [Heroku](https://heroku.com/)
 -   [npm - nodemon](https://www.npmjs.com/package/nodemon)
 -   [npm - apicache](https://www.npmjs.com/package/apicache)
 -   [npm - cors](https://www.npmjs.com/package/cors)
