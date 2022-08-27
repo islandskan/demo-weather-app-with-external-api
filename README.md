@@ -38,7 +38,7 @@ A demo version of a weather app that fetches weather data for the current locati
 
 ## Built with
 
--   [express.js](https://www.npmjs.com/package/express)
+-   [Express.js](https://www.npmjs.com/package/express)
 -   [Weatherbit](https://www.weatherbit.io/)
 
 ## To do
@@ -67,11 +67,13 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 -   [Mozilla docs - Using the geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API/Using_the_Geolocation_API)
 -   [Geeks for geeks - How to build a node.js proxy server](https://www.geeksforgeeks.org/how-to-build-a-node-js-proxy-server)
 
-### Plugins/modules
+### Plugins/modules/other software
 
--   [nodemon](https://www.npmjs.com/package/nodemon)
--   [apicache](https://www.npmjs.com/package/apicache)
--   [cors](https://www.npmjs.com/package/cors)
--   [dotenv](https://www.npmjs.com/package/dotenv)
--   [express-rate-limit](https://www.npmjs.com/package/express-rate-limit)
--   [needle](https://www.npmjs.com/package/needle)
+-   [Postman](https://www.postman.com/)
+-   [Vercel](https://vercel.com/)
+-   [npm - nodemon](https://www.npmjs.com/package/nodemon)
+-   [npm - apicache](https://www.npmjs.com/package/apicache)
+-   [npm - cors](https://www.npmjs.com/package/cors)
+-   [npm - dotenv](https://www.npmjs.com/package/dotenv)
+-   [npm - express-rate-limit](https://www.npmjs.com/package/express-rate-limit)
+-   [npm - needle](https://www.npmjs.com/package/needle)
