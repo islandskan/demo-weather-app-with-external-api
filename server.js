@@ -10,7 +10,7 @@ const app = express();
 // Rate Limiting
 const limiter = rateLimit({
     windowMs: 600000, // 10 mins
-    max: 40,
+    max: 60,
 });
 
 app.use(limiter);
